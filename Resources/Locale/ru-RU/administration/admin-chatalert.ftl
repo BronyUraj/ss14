@@ -8,3 +8,6 @@ admin-chatalert-plasma-pump-pressure-change = { $player } переключил �
 admin-chatalert-plasma-pump-enabled = { $player } включил { $pump }!
 admin-chatalert-plasma-canister-opened = { $player } открыл { $canister } с плазмой!
 admin-chatalert-gravity-generator-turned = { $player } переключил { $gravgen } на { $status }!
+admin-chatalert-particle-accelerator-on = { $player } включил ускоритель частиц.
+admin-chatalert-particle-accelerator-off = { $player } отключил ускоритель частиц.
+admin-chatalert-particle-strength-change = { $player } переключил мощность ускорителя частиц на { $state }.
