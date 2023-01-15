@@ -10,4 +10,4 @@ admin-chatalert-plasma-canister-opened = { $player } opened { $canister } with p
 admin-chatalert-gravity-generator-turned = { $player } turned { $gravgen } to { $status }!
 admin-chatalert-particle-accelerator-on = { $player } turned on particle accelerator.
 admin-chatalert-particle-accelerator-off = { $player } turned off particle accelerator.
-admin-chatalert-particle-strength-change =
+admin-chatalert-particle-strength-change = { $player } has set the strength of PA to  { $state }.
